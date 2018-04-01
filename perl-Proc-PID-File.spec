@@ -1,10 +1,10 @@
 %define modname	Proc-PID-File
-%define modver	1.27
+%define modver	1.28
 
 Summary:	A module to manage process id files
 Name:		perl-%{modname}
 Version:	%perl_convert_version %{modver}
-Release:	15
+Release:	1
 License:	GPLv2+ or Artistic
 Group:		Development/Perl
 Url:		http://search.cpan.org/dist/%{modname}
